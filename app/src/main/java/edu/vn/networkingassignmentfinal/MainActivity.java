@@ -50,6 +50,8 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
     private static final int FRAGMENT_PROFILE = 6;
     private static final int FRAGMENT_CHANGE_PASSWORD = 7;
 
+    //Update Github
+
 
     private int mCurrentFragment = FRAGMENT_HOME;
 
