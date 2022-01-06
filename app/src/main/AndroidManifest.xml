@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="edu.vn.networkingassignmentfinal">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.NetworkingAssignmentFinal">
+        <activity
+            android:name=".activiti.UpdateProductActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activiti.ResetPasswordActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activiti.PlaceOrderActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activiti.NavCategoryActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activiti.DetailedActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activiti.ViewAllActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activiti.RegisterActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activiti.LoginActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "272385754727",
+    "firebase_url": "https://networkingassignment-8372e-default-rtdb.firebaseio.com",
+    "project_id": "networkingassignment-8372e",
+    "storage_bucket": "networkingassignment-8372e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272385754727:android:fc7580be5f0ee7226576c2",
+        "android_client_info": {
+          "package_name": "edu.vn.networkingassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272385754727-8v29v27ijkkje4l5jb533ngd9669ntbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6SGF5gi5oFGsu0wKC6pI46h-2oFzbhhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272385754727-8v29v27ijkkje4l5jb533ngd9669ntbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272385754727:android:868cfc28877ab1a36576c2",
+        "android_client_info": {
+          "package_name": "edu.vn.networkingassignmentfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272385754727-8v29v27ijkkje4l5jb533ngd9669ntbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6SGF5gi5oFGsu0wKC6pI46h-2oFzbhhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272385754727-8v29v27ijkkje4l5jb533ngd9669ntbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

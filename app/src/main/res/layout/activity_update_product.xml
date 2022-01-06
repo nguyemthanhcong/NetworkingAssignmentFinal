@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activiti.UpdateProductActivity"
+    android:orientation="vertical"
+    >
+
+    <EditText
+        android:id="@+id/productName"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="60dp"
+        android:hint="Product Name"
+        android:padding="13dp"
+        android:background="@drawable/edittext_bg"/>
+
+    <EditText
+        android:id="@+id/productPrice"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+        android:hint="Price"
+        android:padding="13dp"
+        android:background="@drawable/edittext_bg"/>
+
+    <EditText
+        android:id="@+id/productDec"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+        android:hint="description"
+        android:inputType="phone"
+        android:padding="13dp"
+        android:background="@drawable/edittext_bg"/>
+
+    <EditText
+        android:id="@+id/productType"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+        android:hint="type"
+        android:inputType="phone"
+        android:padding="13dp"
+        android:background="@drawable/edittext_bg"/>
+    <EditText
+        android:id="@+id/productRating"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="10dp"
+        android:hint="rating"
+        android:inputType="phone"
+        android:padding="13dp"
+        android:background="@drawable/edittext_bg"/>
+
+
+
+
+    <Button
+        android:id="@+id/btnUpdate"
+        android:layout_width="140dp"
+        android:layout_height="70dp"
+        android:text="Update"
+        android:padding="14dp"
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        android:backgroundTint="#05687E"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:textSize="18dp"/>
+
+</LinearLayout>

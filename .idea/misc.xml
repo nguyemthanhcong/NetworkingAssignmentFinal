@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2203125" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/drawable/add_circle.xml" value="0.2203125" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/drawable/autorenew.xml" value="0.2203125" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/drawable/btn_bg_detailed.xml" value="0.2203125" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/drawable/cat_border.xml" value="0.2203125" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/drawable/edittext_background.xml" value="0.2203125" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/drawable/edittext_bg.xml" value="0.2203125" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/drawable/ic_add_cart.xml" value="0.2203125" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/drawable/ic_baseline_arrow_forward_ios_24.xml" value="0.20185185185185187" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/drawable/ic_baseline_category_24.xml" value="0.2203125" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.2203125" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/drawable/ic_baseline_email.xml" value="0.2203125" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/drawable/ic_baseline_local_offer_24.xml" value="0.2203125" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/drawable/ic_baseline_local_phone_24.xml" value="0.2203125" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.14907407407407408" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.14907407407407408" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.2203125" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.14907407407407408" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2203125" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/drawable/ic_menu_camera.xml" value="0.2203125" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/drawable/ic_menuhome.xml" value="0.2203125" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/drawable/ic_order.xml" value="0.2203125" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/drawable/image_border_view.xml" value="0.2203125" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/drawable/register_item.xml" value="0.2203125" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/drawable/remove_circle.xml" value="0.2203125" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/drawable/round_shape.xml" value="0.2203125" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/drawable/search_gb.xml" value="0.2203125" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/drawable/side_nav_bar.xml" value="0.2203125" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/layout/activity_detailed.xml" value="0.25" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/layout/activity_nav_category.xml" value="0.20416666666666666" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/layout/activity_place_order.xml" value="0.20416666666666666" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/layout/activity_reset_password.xml" value="0.20416666666666666" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/layout/activity_update_product.xml" value="0.20416666666666666" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/layout/activity_view_all.xml" value="0.20416666666666666" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/layout/app_bar_main.xml" value="0.16" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/layout/cat_item_border.xml" value="0.20416666666666666" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/layout/fragment_category.xml" value="0.20416666666666666" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/layout/fragment_change_password.xml" value="0.20416666666666666" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/layout/fragment_my_cart.xml" value="0.25" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/layout/fragment_my_order.xml" value="0.20416666666666666" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/layout/fragment_new_product.xml" value="0.20416666666666666" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/layout/fragment_offer.xml" value="0.20416666666666666" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/layout/home_cat_item.xml" value="0.5" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/layout/image_boder_view.xml" value="0.19610507246376813" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/layout/layout_header_navigation.xml" value="0.25" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/layout/my_cart_item.xml" value="0.25" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/layout/nav_cat_item.xml" value="0.25" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/layout/nav_category_detailed_item.xml" value="0.25" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/layout/nav_header_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/layout/popular_item.xml" value="0.33" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/layout/recommended_item.xml" value="0.33" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/layout/view_all_item.xml" value="0.33" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/menu/activity_main_drawer.xml" value="0.33" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/menu/image_border.xml" value="0.20416666666666666" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/menu/image_border_view.xml" value="0.20416666666666666" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2203125" />
+        <entry key="..\:/NetworkingAssignmentFinal/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2203125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
